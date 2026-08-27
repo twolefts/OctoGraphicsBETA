@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: OctoGraphicsBridge
+## Notes: Supplies safe indoor and underwater state to OctoGraphics.
+## Author: Jim / OpenAI
+## Version: 0.1.0
+OctoGraphicsBridge.lua
